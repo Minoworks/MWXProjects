@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MyApp Updates</title>
+    <link>https://minoworks.net</link>
+    <description>Check out the latest updates for MyApp!</description>
+    <item>
+      <title>Version 2.0</title>
+      <pubDate>Sat, 21 Dec 2024 14:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/Minoworks/MWXProjects/blob/main/MWXProjects/MinoWebBrowser/MinoWebBrowser.zip" sparkle:version="2.0" length="12345678" type="application/zip" />
+      <sparkle:minimumSystemVersion>1.12</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://your-server.com/release-notes/2.0</sparkle:releaseNotesLink>
+    </item>
+  </channel>
+</rss>
