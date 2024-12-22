@@ -14,7 +14,7 @@
         length="1026624" 
         type="application/zip" />
       <sparkle:dsaSignature>
-        L0idDtVXfqqhXrCTuME9nsxV8htRttUKxRgTpAzLAZprnDtgA5wYB6KlbINvQ4ljJHTWCeNJ9rUBb/w0kEQ9/OLn19BRtTFYjJiPL9Ri3ghKBQKngSz77kDCeXh7F0ei7bWZvCrBrRbOTda5LC9tr8UDMaBnoZzpOIUcGKkjOyaC03BXrFClHZ7YrJIpi7Un7wpiIS1dnUDxar797J67NzYQv4BrWPNf/C9+qzaC40p47X4s/pk7ZQcXCkssTio1kagOT/2rCckxSy7BHjy56UyoDWV3uO4Bpk0JIR8LFL7QDhfwl1/hTamWr6u6kLYIMLBnDZSVHHu5gXQhnRyOFw==
+        SLMn+jJePBt9gsBlnhJCSpnQwrLRjLl8UUDr3S17Bo9qmWRfHBVXq30SQ/n4nctQbdaT70cdrzXejzFBGG3ByK/0WfM3WZq//NKcjuCnUVGZEjv8cvyelWEBAx/Fw/fV8lxj97/z0x6bkGxMOg5XtHdd8kgegIHZ1it12ZCCmxrBcGk7DZd4Yyg1fng4oDy9w8l1dHDpo0Owp98+lFhyatJaEcxzX70wUaREVFmgJN+ubeP9K5zA2SqI5o52DnqJFoaPseyVAmFwFd2Vv25mcHd+OG4ucwJ9koD5yJIe1XezO5cshdteKm9gSvu1QYE3q2JqFHcD62JlbM+oqw9VoA==
       </sparkle:dsaSignature>
       <sparkle:minimumSystemVersion>1.12</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://minoworks.net</sparkle:releaseNotesLink>
