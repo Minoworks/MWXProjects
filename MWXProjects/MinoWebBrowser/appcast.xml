@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>MyApp Updates</title>
     <link>https://minoworks.net</link>
     <description>Check out the latest updates for MyApp!</description>
+    <language>en</language>
     <item>
       <title>Version 1.0</title>
       <pubDate>Sat, 21 Dec 2024 14:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/Minoworks/MWXProjects/raw/refs/heads/main/MWXProjects/MinoWebBrowser/MinoWebBrowser.zip" sparkle:version="1.0" length="12345678" type="application/zip" />
-      <sparkle:dsaSignature>L0idDtVXfqqhXrCTuME9nsxV8htRttUKxRgTpAzLAZprnDtgA5wYB6KlbINvQ4ljJHTWCeNJ9rUBb/w0kEQ9/OLn19BRtTFYjJiPL9Ri3ghKBQKngSz77kDCeXh7F0ei7bWZvCrBrRbOTda5LC9tr8UDMaBnoZzpOIUcGKkjOyaC03BXrFClHZ7YrJIpi7Un7wpiIS1dnUDxar797J67NzYQv4BrWPNf/C9+qzaC40p47X4s/pk7ZQcXCkssTio1kagOT/2rCckxSy7BHjy56UyoDWV3uO4Bpk0JIR8LFL7QDhfwl1/hTamWr6u6kLYIMLBnDZSVHHu5gXQhnRyOFw==</sparkle:dsaSignature>
+      <enclosure 
+        url="https://github.com/Minoworks/MWXProjects/raw/refs/heads/main/MWXProjects/MinoWebBrowser/MinoWebBrowser.zip" 
+        sparkle:version="1.0" 
+        length="12345678" 
+        type="application/zip" />
+      <sparkle:dsaSignature>
+        L0idDtVXfqqhXrCTuME9nsxV8htRttUKxRgTpAzLAZprnDtgA5wYB6KlbINvQ4ljJHTWCeNJ9rUBb/w0kEQ9/OLn19BRtTFYjJiPL9Ri3ghKBQKngSz77kDCeXh7F0ei7bWZvCrBrRbOTda5LC9tr8UDMaBnoZzpOIUcGKkjOyaC03BXrFClHZ7YrJIpi7Un7wpiIS1dnUDxar797J67NzYQv4BrWPNf/C9+qzaC40p47X4s/pk7ZQcXCkssTio1kagOT/2rCckxSy7BHjy56UyoDWV3uO4Bpk0JIR8LFL7QDhfwl1/hTamWr6u6kLYIMLBnDZSVHHu5gXQhnRyOFw==
+      </sparkle:dsaSignature>
       <sparkle:minimumSystemVersion>1.12</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://your-server.com/release-notes/2.0</sparkle:releaseNotesLink>
     </item>
