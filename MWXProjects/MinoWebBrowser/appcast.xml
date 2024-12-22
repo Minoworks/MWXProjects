@@ -11,6 +11,7 @@
       <enclosure 
         url="https://minoworks.net/MinoWebBrowser.zip" 
         sparkle:version="1.2" 
+        sparkle:shortVersionString="1.2"
         length="1026624" 
         type="application/zip" />
       <sparkle:dsaSignature>
