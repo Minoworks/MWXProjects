@@ -6,18 +6,18 @@
     <description>Check out the latest updates for MyApp!</description>
     <language>en</language>
     <item>
-      <title>Version 1.2</title>
+      <title>Version 1.0.1</title>
       <pubDate>Sat, 21 Dec 2024 14:00:00 GMT</pubDate>
       <enclosure 
         url="https://minoworks.net/MinoWebBrowser.zip" 
-        sparkle:version="1.2" 
-        sparkle:shortVersionString="1.2"
+        sparkle:version="1.0.1" 
+        sparkle:shortVersionString="1.0.1"
         length="1026624" 
         type="application/zip" />
       <sparkle:dsaSignature>
         SLMn+jJePBt9gsBlnhJCSpnQwrLRjLl8UUDr3S17Bo9qmWRfHBVXq30SQ/n4nctQbdaT70cdrzXejzFBGG3ByK/0WfM3WZq//NKcjuCnUVGZEjv8cvyelWEBAx/Fw/fV8lxj97/z0x6bkGxMOg5XtHdd8kgegIHZ1it12ZCCmxrBcGk7DZd4Yyg1fng4oDy9w8l1dHDpo0Owp98+lFhyatJaEcxzX70wUaREVFmgJN+ubeP9K5zA2SqI5o52DnqJFoaPseyVAmFwFd2Vv25mcHd+OG4ucwJ9koD5yJIe1XezO5cshdteKm9gSvu1QYE3q2JqFHcD62JlbM+oqw9VoA==
       </sparkle:dsaSignature>
-      <sparkle:minimumSystemVersion>1.2</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://minoworks.net</sparkle:releaseNotesLink>
     </item>
   </channel>
