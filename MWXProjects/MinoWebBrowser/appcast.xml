@@ -10,7 +10,7 @@
       <pubDate>Sat, 21 Dec 2024 14:00:00 GMT</pubDate>
       <enclosure 
         url="https://github.com/Minoworks/MWXProjects/raw/refs/heads/main/MWXProjects/MinoWebBrowser/MinoWebBrowser.zip" 
-        sparkle:version="1.0" 
+        sparkle:version="1.1" 
         length="12345678" 
         type="application/zip" />
       <sparkle:dsaSignature>
